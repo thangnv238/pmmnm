@@ -1,0 +1,120 @@
+{ 
+    "_id" : ObjectId("5f71878ac4cab81776d64d96"), 
+    "masp" : "0001", 
+    "tensp" : "Do hop", 
+    "soluongton" : 30.0, 
+    "donvi" : "lon", 
+    "dongia" : 30000.0
+}
+{ 
+    "_id" : ObjectId("5f71878ac4cab81776d64d97"), 
+    "masp" : "0002", 
+    "tensp" : "Xuc xich", 
+    "soluongton" : 30.0, 
+    "donvi" : "tui", 
+    "dongia" : 30000.0
+}
+{ 
+    "_id" : ObjectId("5f71878ac4cab81776d64d98"), 
+    "masp" : "0003", 
+    "tensp" : "Ca dong lanh", 
+    "soluongton" : 30.0, 
+    "donvi" : "con", 
+    "dongia" : 30000.0
+}
+{ 
+    "_id" : ObjectId("5f71878ac4cab81776d64d99"), 
+    "masp" : "0004", 
+    "tensp" : "Pho mai", 
+    "soluongton" : 30.0, 
+    "donvi" : "hop", 
+    "dongia" : 30000.0
+}
+{ 
+    "_id" : ObjectId("5f71878ac4cab81776d64d9a"), 
+    "masp" : "0005", 
+    "tensp" : "Mi goi", 
+    "soluongton" : 30.0, 
+    "donvi" : "goi", 
+    "dongia" : 30000.0
+}
+{ 
+    "_id" : ObjectId("5f71878ac4cab81776d64d9b"), 
+    "masp" : "0006", 
+    "tensp" : "Thuc an nhanh", 
+    "soluongton" : 30.0, 
+    "donvi" : "hop", 
+    "dongia" : 30000.0
+}
+{ 
+    "_id" : ObjectId("5f71878ac4cab81776d64d9c"), 
+    "masp" : "0007", 
+    "tensp" : "Nuoc loc", 
+    "soluongton" : 30.0, 
+    "donvi" : "chai", 
+    "dongia" : 30000.0
+}
+{ 
+    "_id" : ObjectId("5f71878ac4cab81776d64d9d"), 
+    "masp" : "0008", 
+    "tensp" : "Nuoc ngot", 
+    "soluongton" : 30.0, 
+    "donvi" : "chai", 
+    "dongia" : 30000.0
+}
+{ 
+    "_id" : ObjectId("5f71878ac4cab81776d64d9e"), 
+    "masp" : "0009", 
+    "tensp" : "Bang ve sinh", 
+    "soluongton" : 30.0, 
+    "donvi" : "goi", 
+    "dongia" : 30000.0
+}
+{ 
+    "_id" : ObjectId("5f71878ac4cab81776d64d9f"), 
+    "masp" : "0010", 
+    "tensp" : "Bao cao su", 
+    "soluongton" : 30.0, 
+    "donvi" : "hop", 
+    "dongia" : 30000.0
+}
+{ 
+    "_id" : ObjectId("5f71878ac4cab81776d64da0"), 
+    "masp" : "0011", 
+    "tensp" : "Bim bim", 
+    "soluongton" : 30.0, 
+    "donvi" : "goi", 
+    "dongia" : 30000.0
+}
+{ 
+    "_id" : ObjectId("5f71878ac4cab81776d64da1"), 
+    "masp" : "0012", 
+    "tensp" : "Nuoc rua bat", 
+    "soluongton" : 30.0, 
+    "donvi" : "chai", 
+    "dongia" : 30000.0
+}
+{ 
+    "_id" : ObjectId("5f71878ac4cab81776d64da2"), 
+    "masp" : "0013", 
+    "tensp" : "Dau goi", 
+    "soluongton" : 30.0, 
+    "donvi" : "chai", 
+    "dongia" : 30000.0
+}
+{ 
+    "_id" : ObjectId("5f71878ac4cab81776d64da3"), 
+    "masp" : "0014", 
+    "tensp" : "Sua tam", 
+    "soluongton" : 30.0, 
+    "donvi" : "chai", 
+    "dongia" : 30000.0
+}
+{ 
+    "_id" : ObjectId("5f71878ac4cab81776d64da4"), 
+    "masp" : "0015", 
+    "tensp" : "Khan tam", 
+    "soluongton" : 30.0, 
+    "donvi" : "cai", 
+    "dongia" : 30000.0
+}
